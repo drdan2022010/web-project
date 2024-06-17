@@ -25,10 +25,8 @@
     <div *ngIf="editMode">
       <input [(ngModel)]="postData.name" placeholder="Post Name">
       <textarea [(ngModel)]="postData.content" placeholder="Post Content"></textarea>
-      <!-- Add other fields as necessary -->
     </div>
     <div *ngIf="!editMode">
-      <!-- Your existing display of post data -->
     </div>
 
     <mat-card-actions>
