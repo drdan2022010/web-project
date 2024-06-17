@@ -1,6 +1,7 @@
 # A WEB APPLICATION FOR YUGIOH BLOG
-Report: [Report]((https://docs.google.com/document/d/15tpByTkSyXagVvykDAjMOzevcKc6tjHrXsMJi1tOXfg/edit?usp=sharing))
-Old Github: [Old Github]((https://github.com/drdan2022010/blogspringboot))
+-Report: [Report]((https://docs.google.com/document/d/15tpByTkSyXagVvykDAjMOzevcKc6tjHrXsMJi1tOXfg/edit?usp=sharing))
+
+-Old Github: [Old Github]((https://github.com/drdan2022010/blogspringboot))
 ## Introduction
 This is the Team IUGIOH A WEB APPLICATION final project. YUGIOH BLOG is a website that help player train YUGIOH OCG
 ## Documentation
