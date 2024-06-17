@@ -1,4 +1,6 @@
 # A WEB APPLICATION FOR YUGIOH BLOG
+Report: [report]((https://docs.google.com/document/d/15tpByTkSyXagVvykDAjMOzevcKc6tjHrXsMJi1tOXfg/edit?usp=sharing)
+Old Github: [Old Github] https://github.com/drdan2022010/blogspringboot
 ## Introduction
 This is the Team IUGIOH A WEB APPLICATION final project. YUGIOH BLOG is a website that help player train YUGIOH OCG
 ## Documentation
@@ -10,7 +12,7 @@ This is the Team IUGIOH A WEB APPLICATION final project. YUGIOH BLOG is a websit
  - Deck Building Advice: Recommended casual and competitive decks for newcomers and veterans of the game.
  - Community Interactions: Forums and comment sections where players can discuss topics, share experiences and seek advice.
  - File/Code Sharing: A section where users can upload their personal deck with the dedicated .ydk file, which is a file universally used for storing the card’s id, or with a string of code that the user can paste in the built-in web simulator.
-
+ 
 - Future plans:
     - Update UI.
     - Create database in cloud.
